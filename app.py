@@ -27,6 +27,7 @@ DATAS_LIMITE = {
 # CÓDIGOS DOS PARTICIPANTES (AJUSTE AQUI!)
 PARTICIPANTES = {
     "Felipe": "ABC123",
+    "Henrique": "ABC1234",
     "João": "XYZ789",
     "Maria": "QWE456",
     "Pedro": "ASD321",
